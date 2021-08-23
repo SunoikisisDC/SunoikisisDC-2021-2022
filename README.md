@@ -5,6 +5,11 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
 ***
 ### SunoikisisDC 2021-2022 Courses (Fall 2021 and Spring and Summer 2022)
 
+* SunoikisisDC 2021-2022 Wiki (syllabi and class outlines)
+   * Fall 2021: Sunoikisis Digital Classics
+   * Spring 2022: Sunoikisis Digital Cultural Heritage
+   * Summer 2022: Sunoikisis Digital Classics
+
 ***
 #### Partnership
 Starting from 2019 and as part of a long established collaboration, SunoikisisDC is a project partner of the Pelagios Network ([Pedagogy](https://pelagios.org/activities/pedagogy/)) to support the use of linked data in education and cultural heritage. Our representative to the Pelagios Network is co-organizer Valeria Vitale.
