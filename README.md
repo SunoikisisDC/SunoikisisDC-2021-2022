@@ -5,7 +5,7 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
 ***
 ### SunoikisisDC 2021-2022 Courses (Fall 2021 and Spring and Summer 2022)
 
-* SunoikisisDC 2021-2022 Wiki (syllabi and class outlines)
+* [SunoikisisDC 2021-2022 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki) (syllabi and class outlines)
    * Fall 2021: Sunoikisis Digital Classics
    * Spring 2022: Sunoikisis Digital Cultural Heritage
    * Summer 2022: Sunoikisis Digital Classics
