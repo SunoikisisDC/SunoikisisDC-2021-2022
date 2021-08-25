@@ -6,9 +6,9 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
 ### SunoikisisDC 2021-2022 Courses (Fall 2021 and Spring and Summer 2022)
 
 * [SunoikisisDC 2021-2022 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki) (syllabi and class outlines)
-   * [Fall 2021: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Fall-2021-Sunoikisis-DC)
-   * Spring 2022: Sunoikisis Digital Cultural Heritage
-   * Summer 2022: Sunoikisis Digital Classics
+   * [Fall 2021: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/Fall-2021-Sunoikisis-DC) (chaired by Martina Astrid Rodda, Monica Berti, Gabriel Bodard and Marja Vierros)
+   * Spring 2022: Sunoikisis Digital Cultural Heritage (chaired by Monica Berti, Gabriel Bodard, and Paula Granados García)
+   * Summer 2022: Sunoikisis Digital Classics (chaired by Monica Berti and Gabriel Bodard)
 
 ***
 #### Partnership
